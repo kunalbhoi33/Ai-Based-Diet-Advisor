@@ -1,0 +1,46 @@
+
+REPORT
+
+USER DETAILS
+
+Name           : kunal
+Age            : 21
+Gender         : Male
+Height         : 169cm
+Weight         : 69kg
+Weight Goal    : 10.0kg
+Your BMI is 24.2 and your weight status is Normal
+
+CALORIES REPORT
+Daily calories you need to maintain your current weight is 2657
+Daily calories you need to lose weight (59.00kg/week) is -56343
+
+SUGGESTED MEAL
+
+Breakfast:
+
+Meal 1: Basic Scrambled Eggs. 
+Amount: 1 serving. 
+Calories: 273.1. 
+
+
+Total Breakfast Calories: 273.1. 
+
+Meal 1  : Cream Cheese Pickles. 
+Amount: 1 Serving. 
+Calories: 152.4. 
+
+Total Dinner Calories: 152.4. 
+
+Meal 1: Easy Grilled Chicken. 
+Amount: 2 serving. 
+Calories: 415.8. 
+
+Meal 2: Carrots. 
+Amount: 3 medium sized. 
+Calories: 172.2. 
+
+Total Lunch Calories: 588.0. 
+
+TOTAL CALORIES: 1014. 
+
